@@ -50,7 +50,7 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                         child: Container(
                           width: 80,
                           height: 40,
-                          color: Colors.brown,
+                          color: Colors.red,
                         )),
                     Flexible(
                         flex: 1,
@@ -58,7 +58,7 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                           margin: EdgeInsets.all(5),
                           width: 80,
                           height: 40,
-                          color: Colors.brown,
+                          color: Colors.red,
                         ))
                   ],
                 )),
@@ -72,7 +72,7 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                         child: Container(
                           width: 80,
                           height: 40,
-                          color: Colors.brown,
+                          color: Colors.pink,
                         )),
                     Flexible(
                         flex: 1,
@@ -80,7 +80,7 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                           margin: EdgeInsets.all(5),
                           width: 80,
                           height: 40,
-                          color: Colors.brown,
+                          color: Colors.pink,
                         ))
                   ],
                 )),
@@ -94,7 +94,7 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                         child: Container(
                           width: 80,
                           height: 150,
-                          color: Colors.brown,
+                          color: Colors.blue,
                         )),
                     Flexible(
                         flex: 1,
@@ -102,7 +102,7 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                           margin: EdgeInsets.all(5),
                           width: 80,
                           height: 150,
-                          color: Colors.brown,
+                          color: Colors.blue,
                         ))
                   ],
                 )),
