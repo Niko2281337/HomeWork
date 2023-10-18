@@ -26,18 +26,22 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                     Flexible(
                         flex: 1,
                         child: Container(
-                          width: 80,
-                          height: 150,
-                          color: Colors.brown,
-                        )),
+                            width: 80,
+                            height: 150,
+                            color: Colors.brown,
+                            child: Center(
+                              child: Text('1'),
+                            ))),
                     Flexible(
                         flex: 1,
                         child: Container(
-                          margin: EdgeInsets.all(5),
-                          width: 80,
-                          height: 150,
-                          color: Colors.brown,
-                        ))
+                            margin: EdgeInsets.all(5),
+                            width: 80,
+                            height: 150,
+                            color: Colors.brown,
+                            child: Center(
+                              child: Text('2'),
+                            )))
                   ],
                 )),
             Flexible(
@@ -48,18 +52,22 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                     Flexible(
                         flex: 1,
                         child: Container(
-                          width: 80,
-                          height: 40,
-                          color: Colors.red,
-                        )),
+                            width: 80,
+                            height: 40,
+                            color: Colors.red,
+                            child: Center(
+                              child: Text('3'),
+                            ))),
                     Flexible(
                         flex: 1,
                         child: Container(
-                          margin: EdgeInsets.all(5),
-                          width: 80,
-                          height: 40,
-                          color: Colors.red,
-                        ))
+                            margin: EdgeInsets.all(5),
+                            width: 80,
+                            height: 40,
+                            color: Colors.red,
+                            child: Center(
+                              child: Text('4'),
+                            )))
                   ],
                 )),
             Flexible(
@@ -70,18 +78,22 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                     Flexible(
                         flex: 1,
                         child: Container(
-                          width: 80,
-                          height: 40,
-                          color: Colors.pink,
-                        )),
+                            width: 80,
+                            height: 40,
+                            color: Colors.pink,
+                            child: Center(
+                              child: Text('5'),
+                            ))),
                     Flexible(
                         flex: 1,
                         child: Container(
-                          margin: EdgeInsets.all(5),
-                          width: 80,
-                          height: 40,
-                          color: Colors.pink,
-                        ))
+                            margin: EdgeInsets.all(5),
+                            width: 80,
+                            height: 40,
+                            color: Colors.pink,
+                            child: Center(
+                              child: Text('6'),
+                            )))
                   ],
                 )),
             Flexible(
@@ -92,18 +104,22 @@ class HomeWorkLessonWidgets extends StatelessWidget {
                     Flexible(
                         flex: 1,
                         child: Container(
-                          width: 80,
-                          height: 150,
-                          color: Colors.blue,
-                        )),
+                            width: 80,
+                            height: 150,
+                            color: Colors.blue,
+                            child: Center(
+                              child: Text('7'),
+                            ))),
                     Flexible(
                         flex: 1,
                         child: Container(
-                          margin: EdgeInsets.all(5),
-                          width: 80,
-                          height: 150,
-                          color: Colors.blue,
-                        ))
+                            margin: EdgeInsets.all(5),
+                            width: 80,
+                            height: 150,
+                            color: Colors.blue,
+                            child: Center(
+                              child: Text('8'),
+                            )))
                   ],
                 )),
           ],
